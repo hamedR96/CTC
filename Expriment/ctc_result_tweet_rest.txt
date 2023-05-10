@@ -1,0 +1,17 @@
+lda_gibbs_EM_tweets_10_topics, 0.059779735576147644
+lda_gibbs_EM_tweets_20_topics, 0.028652703515500765
+lda_gibbs_EM_tweets_30_topics, 0.023893888258710708
+
+atm_EM_tweets_10_topics, -0.00152060431634255
+atm_EM_tweets_20_topics, 0.000386511498783001
+atm_EM_tweets_30_topics, -0.006946848827880945
+
+ctm_EM_tweets_10_topics, 0.027751588808357958
+ctm_EM_tweets_20_topics, 0.08288147264729812
+ctm_EM_tweets_30_topics, 0.06989723649014477
+
+top2vec_EM_tweets_topics, 0.016551403364922956
+
+bertopic_EM_tweets_topics, 0.011573736344541547
+
+The experiment is successfully done!

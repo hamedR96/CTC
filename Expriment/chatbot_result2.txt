@@ -1,0 +1,34 @@
+top2vec_EM_tweets_topics, 1.3529411764705883
+top2vec_20newsgroup_topics, 1.6705882352941177
+
+ctm_EM_tweets_20_topics, 1.85
+ctm_EM_tweets_10_topics, 1.6
+ctm_EM_tweets_30_topics, 1.7333333333333334
+
+ctm_20newsgroup_50_topics, 1.56
+ctm_20newsgroup_20_topics, 1.25
+ctm_20newsgroup_100_topics, 1.31
+
+
+
+atm_EM_tweets_10_topics, 0.9
+atm_EM_tweets_20_topics, 1.25
+atm_EM_tweets_30_topics, 0.8
+
+atm_20newsgroup_100_topics, 0.92
+atm_20newsgroup_20_topics, 1.15
+atm_20newsgroup_50_topics, 1.12
+
+
+bertopic_EM_tweets_topics, 1.4876847290640394
+bertopic_20newsgroup_topics, 1.5172413793103448
+
+etm_20newsgroup_20_topics, 0.7
+etm_20newsgroup_50_topics, 1.22
+etm_20newsgroup_100_topics, 1.23
+
+etm_EM_tweets_10_topics, 1.6
+etm_EM_tweets_20_topics, 1.05
+etm_EM_tweets_30_topics, 1.2333333333333334
+
+The experiment is successfully done!

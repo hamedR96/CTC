@@ -1,0 +1,15 @@
+etm_20newsgroup_100_topics, 0.13212124007476128
+atm_20newsgroup_20_topics, 0.00024865813810123505
+top2vec_20newsgroup_topics, 0.0229993359784844
+atm_20newsgroup_100_topics, 0.009923172363705891
+etm_20newsgroup_20_topics, 0.11297734120095691
+lda_gibbs_20newsgroup_100_topics, 0.019645128065666605
+bertopic_20newsgroup_topics, 0.017480006307642616
+lda_gibbs_20newsgroup_50_topics, 0.03599012400230347
+ctm_20newsgroup_50_topics, 0.041261361763122485
+atm_20newsgroup_50_topics, 0.0010765771032769224
+lda_gibbs_20newsgroup_20_topics, 0.058109423152088564
+etm_20newsgroup_50_topics, 0.11980149894897472
+ctm_20newsgroup_20_topics, 0.04251005178991002
+ctm_20newsgroup_100_topics, 0.03684975436102153
+The experiment is successfully done!

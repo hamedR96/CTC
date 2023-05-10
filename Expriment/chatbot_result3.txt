@@ -1,0 +1,7 @@
+lda_gibbs_20newsgroup_100_topics, 1.14, 0.2670000000000001
+lda_gibbs_20newsgroup_50_topics, 1.16, 0.22
+lda_gibbs_tweets_30_topics, 1.4333333333333333, 0.16333333333333336
+lda_gibbs_20newsgroup_20_topics, 1.3, 0.255
+lda_gibbs_tweets_20_topics, 1.5, 0.22999999999999993
+lda_gibbs_tweets_10_topics, 1.9, 0.26
+The experiment is successfully done!

@@ -1,0 +1,67 @@
+ctm_EM_tweets_20_topics, u_mass, -8.336661878316814
+ctm_EM_tweets_20_topics, c_v, 0.5347196468905364
+ctm_EM_tweets_20_topics, c_uci, -3.7205544182433328
+ctm_EM_tweets_20_topics, c_npmi, -0.07031915800643788
+ctm_EM_tweets_20_topics, word_embedding_coherence, 0.8807563439342712
+
+lda_gibbs_EM_tweets_10_topics, u_mass, -3.790816725717094
+lda_gibbs_EM_tweets_10_topics, c_v, 0.4983966632476598
+lda_gibbs_EM_tweets_10_topics, c_uci, -0.44110812437239444
+lda_gibbs_EM_tweets_10_topics, c_npmi, 0.01694708272797684
+lda_gibbs_EM_tweets_10_topics, word_embedding_coherence, 0.8384164011478423
+
+
+atm_EM_tweets_30_topics, u_mass, -11.301826764716832
+atm_EM_tweets_30_topics, c_v, 0.35040955655876965
+atm_EM_tweets_30_topics, c_uci, -7.278932340407969
+atm_EM_tweets_30_topics, c_npmi, -0.25852133706183344
+atm_EM_tweets_30_topics, word_embedding_coherence, 0.7535786500683538
+
+atm_EM_tweets_20_topics, u_mass, -11.770113986779881
+atm_EM_tweets_20_topics, c_v, 0.3438769423633605
+atm_EM_tweets_20_topics, c_uci, -7.9675090745825115
+atm_EM_tweets_20_topics, c_npmi, -0.28351874082381096
+atm_EM_tweets_20_topics, word_embedding_coherence, 0.6945782775349088
+
+ctm_EM_tweets_30_topics, u_mass, -8.063065837759275
+ctm_EM_tweets_30_topics, c_v, 0.5735112106155618
+ctm_EM_tweets_30_topics, c_uci, -3.5890461946364516
+ctm_EM_tweets_30_topics, c_npmi, -0.06491400446583517
+ctm_EM_tweets_30_topics, word_embedding_coherence, 0.8736979049223443
+
+top2vec_EM_tweets_topics, u_mass, -10.536373207808074
+top2vec_EM_tweets_topics, c_v, 0.4014880929724529
+top2vec_EM_tweets_topics, c_uci, -6.2720811516033175
+top2vec_EM_tweets_topics, c_npmi, -0.15271748522765372
+top2vec_EM_tweets_topics, word_embedding_coherence, 0.847490968541078
+
+ctm_EM_tweets_10_topics, u_mass, -7.049308849204186
+ctm_EM_tweets_10_topics, c_v, 0.580513851917102
+ctm_EM_tweets_10_topics, c_uci, -2.6147524604289987
+ctm_EM_tweets_10_topics, c_npmi, -0.030291532373093465
+ctm_EM_tweets_10_topics, word_embedding_coherence, 0.8888427678743998
+
+lda_gibbs_EM_tweets_20_topics, u_mass, -5.415860475444687
+lda_gibbs_EM_tweets_20_topics, c_v, 0.3959030836379208
+lda_gibbs_EM_tweets_20_topics, c_uci, -1.8349638261731953
+lda_gibbs_EM_tweets_20_topics, c_npmi, -0.04951540783360468
+lda_gibbs_EM_tweets_20_topics, word_embedding_coherence, 0.7983373539977603
+
+lda_gibbs_EM_tweets_30_topics, u_mass, -6.390949213664571
+lda_gibbs_EM_tweets_30_topics, c_v, 0.3363781812976003
+lda_gibbs_EM_tweets_30_topics, c_uci, -3.068195378589026
+lda_gibbs_EM_tweets_30_topics, c_npmi, -0.0994218403365105
+lda_gibbs_EM_tweets_30_topics, word_embedding_coherence, 0.7837727628813851
+
+atm_EM_tweets_10_topics, u_mass, -12.859345405797555
+atm_EM_tweets_10_topics, c_v, 0.36420246103248105
+atm_EM_tweets_10_topics, c_uci, -9.02107985610103
+atm_EM_tweets_10_topics, c_npmi, -0.3243642063785287
+atm_EM_tweets_10_topics, word_embedding_coherence, 0.7304910822709401
+
+bertopic_EM_tweets_topics, u_mass, -11.883916341336123
+bertopic_EM_tweets_topics, c_v, 0.43278250790863915
+bertopic_EM_tweets_topics, c_uci, -4.131708331099545
+bertopic_EM_tweets_topics, c_npmi, -0.020847917655657352
+bertopic_EM_tweets_topics, word_embedding_coherence, 0.5418552971655329
+The experiment is successfully done!
