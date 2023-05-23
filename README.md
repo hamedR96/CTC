@@ -1,6 +1,5 @@
 # CTC
 
-# Reproducibility
 ## Python Package
 CTC is implemented as a service for researchers and engineers who aim to evaluate and fine-tune their topic models. The source code of this python package is provided in `./ctc` and a notebook named `example.ipynb` is prepared to explain how to use this python package as follows.
 
