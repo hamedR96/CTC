@@ -62,10 +62,6 @@ y.ctc_intrusion()
 y.ctc_rating()
 ```
 
-## Experiments
-The experiments of this paper including topic models, measuring scores, and complete results are provided in the `./experiment` folder. To reproduce the results from scratch, it is required first to train topic models with the notebooks provided in `./experiment/NTM`. Afterward, there are 4 notebooks in `./experiment` to compute CTC<sub>CPMI</sub>, CTC<sub>Intrusion</sub>, CTC<sub>Rating</sub>, and traditional topic coherence metrics and to save the results as `.txt` files. The analysis is provided in the notebook named `Analysis.ipynb`.
-
-
 ## Citation
 To cite [CTC](https://arxiv.org/abs/2305.14587), please use the following bibtex reference:
 ```bibtext
