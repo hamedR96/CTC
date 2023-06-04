@@ -1,3 +1,7 @@
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://hamedrahimi.fr)
+[![arXiv](https://img.shields.io/badge/arXiv-2302.14587-<COLOR>.svg)](https://arxiv.org/abs/2305.14587)
+
+
 # CTC: Contextualized Topic Coherence Metrics
 
 This research introduces a new family of topic coherence metrics called Contextualized Topic Coherence Metrics (CTC) that benefits from the recent development of Large Language Models (LLM). CTC includes two approaches that are motivated to offer flexibility and accuracy in evaluating neural topic models under different circumstances. Our results show automated CTC outperforms the baseline metrics on large-scale datasets while semi-automated CTC outperforms the baseline metrics on short-text datasets.
