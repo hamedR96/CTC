@@ -1,4 +1,0 @@
-etm_EM_tweets_10_topics, 0.14609625053267328
-etm_EM_tweets_30_topics, 0.12167289236795459
-etm_EM_tweets_20_topics, 0.11624192169107798
-The experiment is successfully done!
