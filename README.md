@@ -1,6 +1,3 @@
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://hamedrahimi.fr)
-[![arXiv](https://img.shields.io/badge/arXiv-2302.14587-<COLOR>.svg)](https://arxiv.org/abs/2305.14587)
-
 
 # CTC: Contextualized Topic Coherence Metrics
 
@@ -64,18 +61,4 @@ y=Semi_auto_CTC(openai_key,topics)
 y.ctc_intrusion()
 
 y.ctc_rating()
-```
-
-## Citation
-To cite [CTC](https://arxiv.org/abs/2305.14587), please use the following bibtex reference:
-```bibtext
-@misc{rahimi2023contextualized,
-      title={Contextualized Topic Coherence Metrics}, 
-      author={Hamed Rahimi and Jacob Louis Hoover and David Mimno 
-      and Hubert Naacke and Camelia Constantin and Bernd Amann},
-      year={2023},
-      eprint={2305.14587},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
 ```
